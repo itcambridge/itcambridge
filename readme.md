@@ -8,10 +8,10 @@ Welcome to my GitHub portfolio! I'm Mark Austin, a IT Engineer specializing in A
 
 ## 🚀 About Me
 
-🎓 **Education**: [Engineering, Science and Technology], [Brunel University]  
-💼 **Current Role**: [Self Training], [IT Cambridge]  
-💻 **Expertise**: [Learning Code]  
-📍 **Location**: [Royston, Herts]  
+🎓 **Education**: Engineering, Science and Technology, Brunel University 
+💼 **Current Role**: Self Training, IT Cambridge 
+💻 **Expertise**: Learning Code  
+📍 **Location**: Royston, Herts 
 
 I am passionate about AI and discovering the opportunities it brings, I am currently learning to code using ChatGPT to create adaptive courses and Cursor AI. Collaborating on meaningful projects is what drives me.
 I believe that Expert Lexicon simulation is a vastly overlooked facet of AI, that offers one to one adaptive tutoring on any subject.
