@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I'm Mark Austin, a IT Engineer specializing in A
 📍 **Location**: [Royston, Herts]  
 
 I am passionate about AI and discovering the opportunities it brings, I am currently learning to code using ChatGPT to create adaptive courses and Cursor AI. Collaborating on meaningful projects is what drives me.
-I believe that Expert Lexicon simulation is a vastly overlooked facet of AI, that offers one to one tutoring on any subject.
+I believe that Expert Lexicon simulation is a vastly overlooked facet of AI, that offers one to one adfaptive tutoring on any subject.
 
 ---
 
