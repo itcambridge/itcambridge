@@ -1,6 +1,6 @@
-# 💼 [Your Name] - Portfolio
+# 💼 Mark Austin - Portfolio
 
-Welcome to my GitHub portfolio! I'm [Your Name], a [Your Role] specializing in [technologies or areas of focus], with a passion for solving real-world problems through code. Explore my projects, skills, and contributions below.
+Welcome to my GitHub portfolio! I'm Mark Austin, a IT Engineer specializing in AI integration into the work environment, with a passion for solving real-world problems through code. Explore my projects, skills, and contributions below.
 
 ![Profile Banner](https://your-banner-link-here.com) <!-- Optional: Add a banner image to showcase your style -->
 
@@ -8,12 +8,12 @@ Welcome to my GitHub portfolio! I'm [Your Name], a [Your Role] specializing in [
 
 ## 🚀 About Me
 
-🎓 **Education**: [Your Degree], [Your University]  
-💼 **Current Role**: [Your Job Title], [Company Name]  
-💻 **Expertise**: [List of Technologies/Tools]  
-📍 **Location**: [City, Country]  
+🎓 **Education**: [Engineering, Science and Technology], [Brunel University]  
+💼 **Current Role**: [Self Training], [IT Cambridge]  
+💻 **Expertise**: [Learning Code]  
+📍 **Location**: [Royston, Herts]  
 
-I am passionate about [mention what excites you, such as developing user-centric applications, AI, open-source contributions, etc.]. Collaborating on meaningful projects is what drives me.
+I am passionate about [AI and discovering the opportunities it brings, I am currently learning to code using ChatGPT to create personal adaptive courses and Cursor AI]. Collaborating on meaningful projects is what drives me.
 
 ---
 
