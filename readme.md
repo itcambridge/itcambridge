@@ -61,6 +61,13 @@ Here are a few of my favorite projects that highlight my expertise in [mention f
    - **Highlights**:
      - [Key Feature 1]
      - [Key Feature 2]
+    
+### 3. **Value Investment(https://github.com/your-username/project-repo)**
+   - **Tech Stack**: [Tech used]
+   - **Description**: Uses Value investors lexicon to judge whether to buy or sell a stock.
+   - **Highlights**:
+     - [Key Feature 1]
+     - [Key Feature 2]
 
 Check out more of my projects in the [Repositories](https://github.com/your-username?tab=repositories) section!
 
