@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! I'm Mark Austin, a IT Engineer specializing in A
 
 🎓 **Education**: Engineering, Science and Technology, Brunel University 
 💼 **Current Role**: Self Training, IT Cambridge 
-💻 **Expertise**: Learning Code  
+💻 **Expertise**: IT Infrastructure, Learning Code, algorithmic language models of knowledgeable people.  
 📍 **Location**: Royston, Herts 
 
 I am passionate about AI and discovering the opportunities it brings, I am currently learning to code using ChatGPT to create adaptive courses and Cursor AI. Collaborating on meaningful projects is what drives me.
