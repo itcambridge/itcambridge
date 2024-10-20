@@ -1,6 +1,6 @@
 # 💼 Mark Austin - Portfolio
 
-Welcome to my GitHub portfolio! I'm Mark Austin, a IT Engineer specializing in AI integration into the work environment, with a passion for solving real-world problems through code. Explore my projects, skills, and contributions below.
+Welcome to my GitHub portfolio! I'm Mark Austin, an IT Infrastructure Engineer specializing in AI integration into the work environment, with a passion for solving real-world problems through code. Explore my projects, skills, and contributions below.
 
 ![Profile Banner](https://your-banner-link-here.com) <!-- Optional: Add a banner image to showcase your style -->
 
