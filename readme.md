@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! I'm Mark Austin, an IT Infrastructure Engineer specializing in AI integration into the work environment, with a passion for solving real-world problems through code. Explore my projects, skills, and contributions below.
 
 ![Profile Banner](https://your-banner-link-here.com) <!-- Optional: Add a banner image to showcase your style -->
-
+https://github.com/itcambridge/itcambridge/blob/main/1mozzymaustin_Design_a_white_and_yellow_mesmerizing_and_clean_ce_bf0dfd48-5ef2-4f7e-842f-aaee5072f380%20(6).png
 ---
 
 ## 🚀 About Me
