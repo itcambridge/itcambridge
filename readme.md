@@ -41,12 +41,12 @@ I believe that Expert Lexicon simulation is a vastly overlooked facet of AI, tha
 
 Here are a few of my favorite projects that highlight my expertise in [mention focus areas such as web development, data science, etc.]. Click on the links to dive deeper into the repositories.
 
-### 1. **unsbscribe emails(https://github.com/your-username/project-repo)**
-   - **Tech Stack**: Python
-   - **Description**: With everyone vying for our attention it is our job to choose where we focus our attention
-   - **Highlights**:
-     - List emails with an unsubscribe link
-     - Provide an interface with every link to unsubscribe
+### 1. Stock market Value Investment(https://github.com/ITCAMBRIDGE/project-repo)
+Tech Stack: [Tech used]
+Description: Uses Value investors lexicon to judge whether to buy or sell a stock.
+Highlights:
+[Key Feature 1]
+[Key Feature 2]
 
 ### 2. **ONS Property price heat map(https://github.com/your-username/project-repo)**
    - **Tech Stack**: [Tech used]
